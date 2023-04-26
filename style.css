@@ -16,7 +16,7 @@ p {color: whitesmoke;
     text-align:left;
     padding-left: 1rem; 
     }
-.lightsimage {align: right; margin-right 3rem; box-shadow: 2px 4px 10px whitesmoke;}
+.lightsimage {float: right; box-shadow: 2px 4px 10px whitesmoke;}
 .title {font-family: 
     color: whitesmoke;
     font-size: 3rem;
